@@ -1,8 +1,8 @@
 <html>
     <head>
-        <title>{ $title }</title>
+        <title>{$title}</title>
     </head>
     <body>
-        { $message }
+        {$msg}
     </body>
 </html>
